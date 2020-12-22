@@ -2,6 +2,8 @@
 using System.Xml.Serialization;
 using System.IO;
 
+// Домашнее задание Баранцева Степана ИУ6-74
+// Выбран вариант C1
 namespace ApplicationHomework
 {
     // Тип двигателя -- бензиновый или дизельный
